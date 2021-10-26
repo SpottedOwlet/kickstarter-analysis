@@ -33,9 +33,14 @@ This analysis was performed in two parts:
 To analyze the relationship between campaign outcomes with their launch date, a Pivot table was created. The rows were based on Years column and contained the outcome data by months for successful, failed and canceled campaigns.
 Parent Category was added to filter along with Years. Pivot table was filtered to show outcomes for only 'Theater' category. The data was available for the total of 1369 'Theater' campaigns.
 
+<img width="437" alt="Pivot_Table_Outcomes_by_Launch_Date" src="https://user-images.githubusercontent.com/90424752/138800245-5673745f-a833-430b-9ebf-0c8c7cd7ab63.png">
+
+
 2. Analysis  of Outcomes Based on Goals
 
 The second analysis was performed using the COUNTIFS function to filter the desired data from Kickstarter dataset. The outcome data for campaigns falling into different goal brackets but only pertaining to 'play' subcategory, was filtered into the table. The total number of projects and percentages of successful, failed and canceled outcomes were then calculated. The visualization and observations for this analysis have been discussed in detail in the following section.
+
+<img width="1202" alt="Table_Outcome_by_Goals" src="https://user-images.githubusercontent.com/90424752/138800280-223b7fd3-1dea-499d-b1dc-1a2e1e757373.png">
 
 
  <h3> <p align=center> Analysis of Outcomes Based on Launch Date  </p> </h3>
